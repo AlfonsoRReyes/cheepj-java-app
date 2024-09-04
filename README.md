@@ -4,7 +4,7 @@
 ### Locally
 Assumes you have an `index.html` with this line:
 ```js
-await cheerpjRunJar("/app/cheerpj-java-app/TextDemo.jar");
+await cheerpjRunJar("/app/TextDemo.jar");
 ```
 
 1. Start `http-server` on the current local folder. Example `http-server -p 8080`  
